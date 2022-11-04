@@ -201,6 +201,11 @@ footer {
     grid-template-columns: repeat(1, 100%); /*DIVISÃO DO CONTEUDO*/
     margin-bottom: 2px;
   }
+  article {
+    display: block;
+    justify-content: center;
+    margin-bottom: 100px;
+  }
   footer {
     background-color: rgb(71, 136, 114);
     color: white;
